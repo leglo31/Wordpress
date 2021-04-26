@@ -1,0 +1,6 @@
+WORDPRESS
+
+site: Empreintes des beaux jours
+identifiant: admin
+mot de passe: MaiaPorphyras31
+mail: laurentglotin31@gmail.com
